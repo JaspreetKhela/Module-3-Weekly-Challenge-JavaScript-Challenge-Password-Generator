@@ -10,7 +10,7 @@
 
 **Website**: https://jaspreetkhela.github.io/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator/
 
-**Repository Link**: https://github.com/JaspreetKhela/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator/blob/main/README.md
+**Repository Link**: https://github.com/JaspreetKhela/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator
 
 **Screenshots**:
 Screen Shot 2021-06-16 at 4.41.24 PM (2)![Screen Shot 2021-06-16 at 4 41 24 PM (2)](https://user-images.githubusercontent.com/80941606/122290735-0c48b180-cec2-11eb-83a8-54af258aa8f9.png)

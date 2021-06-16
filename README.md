@@ -8,7 +8,7 @@
 
 **Description**: This repository contains the files for a password generator.
 
-**Website**: https://jaspreetkhela.github.io/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator/
+**Website Link**: https://jaspreetkhela.github.io/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator/
 
 **Repository Link**: https://github.com/JaspreetKhela/Module-3-Weekly-Challenge-JavaScript-Challenge-Password-Generator
 
